@@ -2,7 +2,7 @@
 
 This app is just an example app for showcasing github actions
 
-# Connect to Openshift
+# Connect to Openshift using this following instruction
 
 Before we get started with this training app we want to get connected to openshift, to do that [login](https://cloud.ibm.com) and go to the openshift cluster under `containers` > `clusters` and click on the one called `two-day-course`
 
